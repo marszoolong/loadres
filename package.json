@@ -1,0 +1,26 @@
+{
+  "name": "loadres",
+  "version": "1.0.0",
+  "description": "load scripts and styles dynamicly, implemented by Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marszoolong/loadres.git"
+  },
+  "keywords": [
+    "loadscript",
+    "loadstyle",
+    "load",
+    "resourse",
+    "promise"
+  ],
+  "author": "marszoolong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marszoolong/loadres/issues"
+  },
+  "homepage": "https://github.com/marszoolong/loadres#readme"
+}
