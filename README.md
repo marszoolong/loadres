@@ -5,16 +5,21 @@ so the package will provides you a promise way to load resources.
 
 you can use loadres like following:
 
-1. load one script or style
+1.load one script or style
 
 ```js
 	loadres('jQuery.min.js')
 	.then(res) {
 		...
 	}
+	
+	loadres('bootstrap.min.css')
+	.then(res) {
+		...
+	}
 ```
 
-2. load scripts
+2.load scripts
 
 ```js
 	loadres([
@@ -27,7 +32,7 @@ you can use loadres like following:
 	}
 ```
 
-3. load scripts and styles
+3.load scripts and styles
 ```
 	loadres([
 		'jQuery-ui.min.css',
