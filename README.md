@@ -1,6 +1,6 @@
 # loadres
 
-loadres means load resources, and resources include scripts and styles.
+loadres means load resources, and resources include scripts and styles.  
 so the package will provides you a promise way to load resources.
 
 you can use loadres like following:
@@ -40,6 +40,6 @@ you can use loadres like following:
 
 **NOTE**
 
-loadres will recognize resource type automatically, and
-will mount styles to the bottom of header tag.  
+loadres will recognize resource type automatically, and  
+will mount styles to the bottom of header tag.   
 will mount scripts to the bottom of body tag.
